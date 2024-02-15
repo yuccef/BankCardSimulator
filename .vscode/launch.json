@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CardSimulatorApplication<CardSimulator>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.CardSimulator.CardSimulatorApplication",
+            "projectName": "CardSimulator",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
